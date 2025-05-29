@@ -1,8 +1,6 @@
-// ArbolG3_01.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
 
 /* ArbolG3_01.c++
-Programa: Variante de la creacion de un arbol de grado 3
+Programa: Variante 1 de la creacion de un arbol de grado 3
 Compilo y/o Transcribio: Pérez Nava Yael Mauricio
 Fecha de Compilacion: 29/05/25
 
